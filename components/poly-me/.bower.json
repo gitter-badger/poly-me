@@ -1,0 +1,43 @@
+{
+  "name": "poly-me",
+  "description": "A web based resume using polymer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbeleidy/poly-me"
+  },
+  "authors": [
+    "Saad Elbeleidy <sbeleidy90@gmail.com>"
+  ],
+  "keywords": [
+    "web-component",
+    "polymer",
+    "resume"
+  ],
+  "license": "MIT",
+  "homepage": "https://sbeleidy.github.io/poly-me",
+  "main": "poly-me.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "components-font-awesome": "^4.6.3",
+    "paper-card": "PolymerElements/paper-card#^1.1.1",
+    "iron-pages": "PolymerElements/iron-pages#^1.0.7",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.6.2",
+    "paper-input": "PolymerElements/paper-input#^1.1.14"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "2f2f21f784",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2f2f21f784d96717f9a26ddd9889b72885b3e694"
+  },
+  "_source": "git@github.com:sbeleidy/poly-me.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:sbeleidy/poly-me",
+  "_direct": true
+}

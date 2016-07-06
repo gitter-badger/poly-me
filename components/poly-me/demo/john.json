@@ -1,0 +1,105 @@
+{
+  "content": {
+    "name": "John Smith",
+    "profileImage": "img/profile.jpg",
+    "backgroundImage": "img/background.jpeg",
+    "position": "Awesome",
+    "location": "San Francisco, CA",
+    "social": {
+      "title": "",
+      "profiles": [
+        {
+          "network": "twitter",
+          "link": "https://twitter.com/john"
+        },
+        {
+          "network": "github",
+          "link": "https://github.com/john"
+        },
+        {
+          "network": "linkedin",
+          "link": "https://linkedin.com/in/john"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "title": "Content",
+        "type": "content",
+        "content": "This is a very long message about me. I'm so amazing at everything I do. I'm just awesome you should check out more information about me by looking through the tabs for more awesome stuff!!",
+        "sections": [
+          {
+            "title": "Awesome 1",
+            "image": "",
+            "content": "This is so awesome cause it's 1"
+          },
+          {
+            "title": "Awesome 2",
+            "image": "",
+            "content": "This is so awesome cause it's 2"
+          },
+          {
+            "title": "Awesome 3",
+            "image": "",
+            "content": "This is so awesome cause it's 3"
+          }
+        ]
+      },
+      {
+        "title": "Cards",
+        "type": "cards",
+        "content": "This is a section heading before the cards",
+        "sections": [
+          {
+            "title": "Awesome 1",
+            "content": "This is so awesome cause it's 1",
+            "link": "https://awesome.com"
+          },
+          {
+            "title": "Awesome 2",
+            "content": "This is so awesome cause it's 2"
+          },
+          {
+            "title": "Awesome 3",
+            "content": "This is so awesome cause it's 3"
+          }
+        ]
+      },
+      {
+        "title": "Cards w/ Images",
+        "type": "cards",
+        "content": "This is a section heading before the cards",
+        "sections": [
+          {
+            "title": "Awesome 1",
+            "image": "img/card-1.jpg",
+            "content": "This is so awesome cause it's 1",
+            "link": "https://awesome.com",
+            "linkButton": "Go!"
+          },
+          {
+            "title": "Awesome 2",
+            "image": "img/card-2.jpg",
+            "content": "This is so awesome cause it's 2"
+          },
+          {
+            "title": "Awesome 3",
+            "image": "img/card-3.jpg",
+            "content": "This is so awesome cause it's 3"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "type": "contact",
+        "content": "This is a section heading before the cards",
+        "email": "sbeleidy90@gmail.com",
+        "subject": "Poly-me contact form submission"
+      }
+    ]
+  },
+  "settings": {
+    "primaryColor": "#B2BABF"
+  }
+  
+}
